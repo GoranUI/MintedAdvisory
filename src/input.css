@@ -1,0 +1,26 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+@layer components {
+    .body {
+        @apply flex flex-col justify-center bg-primary font-sans text-white;
+    }
+
+    .section {
+        @apply flex w-max mx-auto flex-col justify-center py-12;
+    }
+
+    .section-wrapper {
+        @apply max-w-screen-xl;
+    }
+
+    .label {
+        @apply text-base font-extrabold leading-tight text-mint uppercase ;
+    }
+
+}
