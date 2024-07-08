@@ -9,3 +9,10 @@
 [x] Add Language Selector in Header Nav
 [x] Mobile menu styles
 [x] English version development
+[X] Image elements do not have [alt] attributes
+[x] Links do not have a discernible name
+[x] Buttons do not have an accessible name
+[x] Load Fonts Localy as woff2 
+[x] Serve images in next-gen formats 
+[x] Optimize SVGs
+
