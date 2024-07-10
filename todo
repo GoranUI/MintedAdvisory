@@ -15,4 +15,10 @@
 [x] Load Fonts Localy as woff2 
 [x] Serve images in next-gen formats 
 [x] Optimize SVGs
-
+[x] Izbaciti .zip i todo fajlove i ne prebacivati ih na git / oki done
+[x] Zasto imas /dist i /src folder? Zasto kod ne stoji u root-u? / tailwind type of flow idk
+[x] Proveriti import fontova? Radi se import na vise mesta, pa nisam skontao bas / Ubačen je u Inputu da bi izašao iz tailwinda u Output
+[x] Header na desktopu malo je off. Saljem sliku / visak ml-14
+[x] Na mobili mi je malo cudno sto je sve na sredini osim sekcije o njoj / done
+[x] Na mobili bih ubacio odabir jezika mozda u meni / meni se ovako vise dja idk
+[x] Da li moze strelica u Hero sekciji malo bounsuje / moye
